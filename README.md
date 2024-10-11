@@ -44,7 +44,7 @@ pip install pandas streamlit plotly
 
 3. **Adicione o arquivo de dados**:
 
-   Certifique-se de que o arquivo de dados `acidentes2007-2020.csv` está presente na pasta do projeto. Este arquivo contém os dados brutos que serão utilizados para análise e visualização.
+   Certifique-se de que o arquivo de dados `acidentes2007-2020.csv` está presente na pasta do projeto. Este arquivo contém os dados brutos que serão utilizados para análise e visualização. Caso você deseje modificar ou realizar sua própria análise, esse é o link para a base de dados: https://www.kaggle.com/datasets/marcosfnlr/acidentes-em-rodovias-federais-20072020.
 
 ## ▶️ Como executar
 
